@@ -3,4 +3,15 @@
     version="3.0">
 
     <display-name>Ejemplos Servlets</display-name>
+
+
+    <servlet>
+        <servlet-name>MyServlet</servlet-name>
+        <servlet-class>ejemplos.servlet.curso.MyServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MyServlet</servlet-name>
+        <url-pattern>/MyServlet</url-pattern>
+    </servlet-mapping>
 </web-app>
