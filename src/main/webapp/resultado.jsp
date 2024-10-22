@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Resultado del formulario</title>
+    <title>Resultados del formulario</title>
 </head>
 <body>
 <h1>Resultado del formulario</h1>

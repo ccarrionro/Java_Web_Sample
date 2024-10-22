@@ -4,7 +4,7 @@
     <title>Formulario JSP</title>
 </head>
 <body>
-<h1>Formulario de ejemplo</h1>
+<h1>Formulario de ejemplo 2</h1>
 <form action="MyServlet" method="post">
     <label for="nombre">Nombre:</label>
     <input type="text" id="nombre" name="nombre" required><br><br>
